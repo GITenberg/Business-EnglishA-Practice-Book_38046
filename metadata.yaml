@@ -1,0 +1,34 @@
+_repo: Business-EnglishA-Practice-Book_38046
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Buhlig, Rose
+    birthdate: 1883
+    gutenberg_agent_id: '39218'
+    url: http://www.gutenberg.org/2009/agents/39218
+description: ''
+gutenberg_issued: '2011-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38046'
+  lccn: '14006176'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Commercial correspondence'
+- !lcsh 'English language -- Grammar'
+- !lcsh 'English language -- Rhetoric'
+- !lcc 'PE'
+tableOfContents: 'Word study and grammar: Interesting words. Pronunciation. Spelling
+  rules. Word analysis. The sentence and its elements. The noun and the pronoun. The
+  adjective and the adverb. The verb. The preposition and the conjunction -- Composition
+  (oral and written): Oral English. Choosing subjects. Punctuation. The clear sentence.
+  The paragraph. Business letters -- Composition (business practice): Manufacture.
+  Distribution. Advertising. Real estate and insurance. Banking. The corporation.'
+title: 'Business English: A Practice Book'
+url: http://www.gutenberg.org/ebooks/38046
